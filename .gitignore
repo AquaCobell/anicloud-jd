@@ -5,3 +5,4 @@ dist
 icon.ico
 main.spec
 config.yml
+chromedriver.exe
