@@ -1,0 +1,6 @@
+build
+chrome_extension
+__pycache__
+dist
+icon.icon
+main.spec
